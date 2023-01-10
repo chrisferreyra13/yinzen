@@ -1,6 +1,6 @@
-# Yinsen
+# Yinzen
 
-Yinsen is an open-source Python backend that automatize your data analysis workflow. The idea is not to invent the wheel, but to at least make a car to go faster from A to B. :stuck_out_tongue_winking_eye:
+Yinzen is an open-source Python package/cli that automatize your data analysis workflow. The idea is not to invent the wheel, but to at least make a car to go faster from A to B. :sweat_smile:
 
 It is built on the shoulders of giants like Numpy, Scipy, scikit-learn, MNE-python, etc.
 
